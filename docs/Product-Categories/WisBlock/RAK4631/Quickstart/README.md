@@ -230,7 +230,7 @@ RAK4631 WisBlock Core is designed to be interfaced to other WisBlock Modules lik
 
 To quickly build your IoT device with less friction, example codes for RAK4631 to be used on all WisBlock Modules are provided. 
 
-You can access the codes on the [WisBlock Example code repository](https://github.com/RAKWireless/WisBlock/examples). The example codes compatible to RAK4631 are in the folders `RAK4630` and `common` of that example repository. 
+You can access the codes on the [WisBlock Example code repository](https://github.com/RAKWireless/WisBlock/tree/master/examples). The example codes compatible to RAK4631 are in the folders `RAK4630` and `common` of that example repository. 
 
 To use these examples, you have two options: Arduino IDE or Platform IO.
 
